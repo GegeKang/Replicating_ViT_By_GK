@@ -26,7 +26,6 @@ The Vision Transformer (ViT) adapts the Transformer architecture — originally 
 ├── utils_colab.py         # Utilities for use in Google Colab (training, loading, etc.)
 ├── vit_model_local.py     # ViT model for local Python environments (e.g., VSCode)
 ├── utils_local.py         # Utilities for local Python environments
-├── main.py                # [Optional] Your own runner/training script
 ├── README.md              # You're here!
 ```
 
